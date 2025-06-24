@@ -1,6 +1,6 @@
 # Quickspot
 
-A simple app with an idea of finding parking spots and booking slots for parking.It uses provider for statemanagent
+A simple app with an idea of finding parking spots and booking slots for parking.It uses provider for statemanagent and have real time user locatons that we can search and also get current location
 
 
 ## Features
