@@ -1,6 +1,19 @@
-# quickspot
+# Quickspot
 
-A simple app with an idea of finding parking spots and booking slots for parking
+A simple app with an idea of finding parking spots and booking slots for parking.It uses provider for statemanagent
+
+
+## Features
+- Search real time locations
+- View parking spaces
+- see/book slots for parking
+- current location
+
+
+## App features
+- Geolocator
+- Flutter maps
+- Provider for state Management
 
 ## Getting Started
 
@@ -15,7 +28,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##Screenshots
+## Screenshots
 ![ss1](./ss1.png)
 ![ss2](./ss2.png)
 ![ss3](./ss3.png)
