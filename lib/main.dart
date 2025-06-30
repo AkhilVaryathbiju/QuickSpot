@@ -35,6 +35,7 @@ import 'package:provider/provider.dart';
 import 'package:quickspot/provider/AccountProvider.dart';
 import 'package:quickspot/screens/SlotBokking.dart';
 import 'package:quickspot/screens/mapPage.dart';
+import 'package:quickspot/screens/oboardingScreen/onBoardingscreen1.dart';
 import 'package:quickspot/screens/signUppage.dart';
 
 
@@ -49,7 +50,7 @@ class myApp extends StatelessWidget{
   Widget build(BuildContext context){
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SignupPage(),
+      home: OnboardingPage1(),
     );
   }
 }

@@ -18,6 +18,10 @@ A simple app with an idea of finding parking spots and booking slots for parking
 
 
 ## Screenshots
+![Onboarding screen](./0ss1.png)
+![Onboarding screen](./oss2.png)
+![Onboarding screen](./oss3.png)
+![Onboarding screen](./oss4.png)
 ![ss1](./ss1.png)
 ![ss2](./ss2.png)
 ![ss3](./ss3.png)
